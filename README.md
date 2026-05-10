@@ -65,7 +65,7 @@ Sistema inteligente de automação para cadeiras de rodas com integração entre
 
 ### 🛠️ Tecnologias
 
-React Native • Node.js • AWS • Firebase • ESP32 • Python
+React Native • Node.js • AWS • Firebase • ESP32
 
 ---
 
