@@ -51,6 +51,44 @@
 
 </div>
 
+## Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mario-tdias&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## ♿ WACS — Wheelchair Automation Control System
+
+Sistema inteligente de automação para cadeiras de rodas com integração entre software, hardware e tecnologias modernas voltadas à acessibilidade.
+
+### 🏆 Reconhecimentos
+
+- 🌎 Top 7 entre +3.000 projetos na FETEPS
+- 📺 Projeto apresentado durante a FETEPS
+- 📰 Destaque em eventos tecnológicos
+
+### 🛠️ Tecnologias
+
+React Native • Node.js • AWS • Firebase • ESP32 • Python
+
+---
+
+## Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/mario-tdias">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
 ---
 
 ## Connect with Me
