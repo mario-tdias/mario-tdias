@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%26+JavaScript+Enthusiast;Building+modern+web+applications;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%26+JavaScript+Enthusiast;Building+modern+web+applications;Always+learning+new+technologies" />
 
 </div>
 
