@@ -52,19 +52,19 @@
 
 </div>
 
-# 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
 ## ♿ WACS — Wheelchair Automation Control System
 
-Sistema inteligente de automação para cadeiras de rodas com integração entre software, hardware e tecnologias modernas voltadas à acessibilidade.
+Smart wheelchair automation system integrating software, hardware, and modern technologies focused on accessibility.
 
-### 🏆 Reconhecimentos
+### 🏆 Achievements
 
-- 🌎 Top 7 entre +3.000 projetos na FETEPS
-- 📺 Projeto apresentado durante a FETEPS
-- 📰 Destaque em eventos tecnológicos
+- 🌎 Top 7 among 3,000+ projects at FETEPS
+- 📺 Project presented during FETEPS
+- 📰 Highlighted in technology events
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 React Native • Node.js • AWS • Firebase • ESP32
 
