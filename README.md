@@ -51,16 +51,6 @@
 
 </div>
 
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mario-tdias&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🚀 Projetos em Destaque
 
 ## ♿ WACS — Wheelchair Automation Control System
@@ -79,17 +69,6 @@ React Native • Node.js • AWS • Firebase • ESP32 • Python
 
 ---
 
-## Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/mario-tdias">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
 
 ## Connect with Me
 
