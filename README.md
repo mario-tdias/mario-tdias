@@ -2,7 +2,7 @@
 
 # Mario Takahashi
 
-### Front-End Developer • UI/UX Designer
+### Full-Stack Developer • Node.js & JavaScript Enthusiast • UI/UX Designer
 
 <br>
 
@@ -14,10 +14,11 @@
 
 ## About Me
 
-- Front-End development student
-- UI/UX designer using Figma
-- Focused on modern and responsive interfaces
-- Passionate about technology and Japanese culture
+- 💻 Backend-focused developer
+- ⚡ Passionate about Node.js and JavaScript
+- 🎨 Experience with UI/UX and modern interfaces
+- 🚀 Participated in technology and innovation projects
+- 🇯🇵 Passionate about technology and Japanese culture
 
 ---
 
@@ -25,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,c,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,mysql,figma,git,github,vscode,c&theme=dark" />
 
 </div>
 
