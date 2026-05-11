@@ -1,6 +1,9 @@
 <div align="center">
 
-# Mario Takahashi
+# Mario Takahashi <div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" width="50" />
+  <p><i>"A wild Mew appeared to check the code!"</i></p>
+</div>
 
 ### Full-Stack Developer • Node.js & JavaScript Enthusiast • UI/UX Designer
 
