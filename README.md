@@ -22,6 +22,14 @@
 
 ---
 
+<div align="center">
+  
+  <p>🎧 <b>Currently listening to:</b></p>
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tdlydoizh6qcchw37eq6mukofa&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
