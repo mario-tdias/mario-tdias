@@ -22,12 +22,21 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### 📱 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,mysql,figma,git,github,vscode,c&theme=dark" />
+### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,supabase&theme=dark" />
+</div>
 
+### 🎨 Design & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman&theme=dark" />
 </div>
 
 ---
