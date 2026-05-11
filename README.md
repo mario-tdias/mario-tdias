@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mario-tdias&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mario-tdias&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title_color=39d353&text_color=ffffff" />
 </div>
 
 # 🚀 Featured Projects
