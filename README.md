@@ -50,6 +50,10 @@
 
 </div>
 
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mario-tdias&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" />
+</div>
+
 # 🚀 Featured Projects
 
 ## ♿ WACS — Wheelchair Automation Control System
