@@ -179,11 +179,7 @@ React Native • Node.js • AWS • Firebase • ESP32
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/mario-takahashi-dias-56b909257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a><a href="https://github.com/mario-tdias" target="_blank"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
-</div>
+  <a href="https://linkedin.com/in/mario-takahashi-dias-56b909257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;<a href="https://github.com/mario-tdias" target="_blank"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
 
-<br>
-
-<div align="center">
-  <sub>Minimal • Professional • Modern</sub>
+  <br><br> <sub>Minimal • Professional • Modern</sub>
 </div>
