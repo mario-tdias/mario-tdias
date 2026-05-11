@@ -46,16 +46,14 @@
   <p><i>"A wild Mew appeared to check the code!"</i></p>
 </div>
 
-## Contribution Streak
+## 📈 Contribution Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=mario-tdias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
 
-<img src="https://streak-stats.demolab.com?user=mario-tdias&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mario-tdias&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title_color=39d353&text_color=ffffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mario-tdias&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
 
 
